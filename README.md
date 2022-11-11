@@ -1,6 +1,7 @@
 # Employee_Attrition_Prediction_Using_Machine_Learning
 
 #Problem Statement and Business Case
+
 Hiring and re-training employees is expensive and time consuming.
 It would be great if we get to know the reasons why employees are more likely to leave the company so that companies can work on it.
 It would also be helpful to predict which employees are likely to leave based on the different features so that companies are more prepared.
